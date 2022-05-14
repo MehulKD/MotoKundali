@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749400804586",
+    "project_id": "moto-kundali",
+    "storage_bucket": "moto-kundali.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749400804586:android:0bfe73b874451ff2a99b93",
+        "android_client_info": {
+          "package_name": "com.shankasur.motokundali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749400804586-o17jjdsd4nenuita1jhktpqj7de5m9e1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shankasur.motokundali",
+            "certificate_hash": "3c23327de455d3b3bada0d788d6da63177d50a2c"
+          }
+        },
+        {
+          "client_id": "749400804586-n5l394642lgdlvup8v3u2urd47j3vs3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg422__HnD0iCO0DWhWZ_UBCZD7tGZ5uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749400804586-n5l394642lgdlvup8v3u2urd47j3vs3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
